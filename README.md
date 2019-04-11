@@ -155,7 +155,7 @@ batches of batteries today. Let's count how many assembled batteries we ended
 up with.
 
 * Create a new variable called `totalBatteries` which is the sum of all of the
-battery amounts in the `batteryBatches` array. Naturally, use `reduce()` for this!
+battery amounts in the `batteryBatches` array that you create that add up to 31. Naturally, use `reduce()` for this!
 
 ## Conclusion
 
